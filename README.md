@@ -1,2 +1,2 @@
-# Taller-Patrones---FS
+# Taller-Patrones
 Solución Taller Fabricas de Software
